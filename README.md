@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raveena Amarasiriwardena
-- 👀 I’m interested in Front-end and Back-end web development.
+- 👀 I’m interested in UI/UX designing, Front-end and Back-end web development.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
