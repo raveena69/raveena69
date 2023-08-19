@@ -33,15 +33,6 @@ I’m Raveena Amarasiriwardena, a **Trainee UI/UX Engineer** based on of Sri Lan
 <!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) -->
 <!-- ![storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) -->
 
-
-## 📝 Latest Behance and Figma Designs
-
--   [Travelor - Travel Destinations Booking Landing Page](https://www.behance.net/gallery/169954821/Travelor-Travel-Destinations-Booking-Landing-Page)
--   [Apex Bank - Mobile Banking App](https://dribbble.com/shots/19647244-Apex-Bank-Mobile-Banking-App)
--   [Plante - Online Plants Order and Delivery Landing Page](https://dribbble.com/shots/20341019-Plante-Online-Plants-Order-and-Delivery-Landing-Page)
--   [Beat Play Station](https://dribbble.com/shots/18791846-Beat-Play-Station)
--   [Link Chat App](https://dribbble.com/shots/18850041-Link-Chat-App)
-
 ## Stats
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=raveena69&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
@@ -58,5 +49,14 @@ I’m Raveena Amarasiriwardena, a **Trainee UI/UX Engineer** based on of Sri Lan
 raveena69/raveena69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📝 Latest Behance and Figma Designs
+
+-   [Travelor - Travel Destinations Booking Landing Page](https://www.behance.net/gallery/169954821/Travelor-Travel-Destinations-Booking-Landing-Page)
+-   [Apex Bank - Mobile Banking App](https://dribbble.com/shots/19647244-Apex-Bank-Mobile-Banking-App)
+-   [Plante - Online Plants Order and Delivery Landing Page](https://dribbble.com/shots/20341019-Plante-Online-Plants-Order-and-Delivery-Landing-Page)
+-   [Beat Play Station](https://dribbble.com/shots/18791846-Beat-Play-Station)
+-   [Link Chat App](https://dribbble.com/shots/18850041-Link-Chat-App)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raveena69.raveena69)
