@@ -23,10 +23,9 @@ I’m Raveena Amarasiriwardena, a **Trainee UI/UX Engineer** based on of Sri Lan
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=AdobeXd)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
