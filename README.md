@@ -25,12 +25,12 @@ I’m Raveena Amarasiriwardena, a **Trainee UI/UX Engineer** based on of Sri Lan
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Netlify](https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=Netlify)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) -->
 <!-- ![storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) -->
 
 
