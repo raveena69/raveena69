@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I’m Raveena Amarasiriwardena, a **Trainee UI/UX Engineer** based on of Sri Lanka. I am an energetic, ambitious person with a passionate in UI/UX designing and frontend development. As a team player I like to work with different people to achieve the goals. In addition to that I have a passionate, to learn new technology, tools and willing to achieve in professionalism in IT industry.
+I’m Raveena Amarasiriwardena, a **Associate UI/UX Engineer** based on of Sri Lanka. I am an energetic, ambitious person with a passionate in UI/UX designing and frontend development. As a team player I like to work with different people to achieve the goals. In addition to that I have a passionate, to learn new technology, tools and willing to achieve in professionalism in IT industry.
 
 <!-- - 👋 Hi, I’m Raveena Amarasiriwardena
 - 👀 I’m interested in UI/UX designing and Front-end web development. -->
